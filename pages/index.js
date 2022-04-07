@@ -70,7 +70,7 @@ export async function getServerSideProps(context) {
 
   // Get Google News API
   const results = await fetch(
-    `https://newsapi.org/v2/top-headlines?country=us&apiKey=ae6fed86a98e4f46bb230f7242ad690a`
+    `https://newsapi.org/v2/top-headlines?country=us&apiKey=${process.env.NEWS_API_KEY}`
   ).then((res) => res.json());
 
   return {
