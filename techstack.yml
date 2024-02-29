@@ -2,7 +2,7 @@ repo_name: hicmtrex/linkedin-clone-
 report_id: 5806bce14dab9dcebc265f0cda2e7ac6
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:17:04+00:00'
+timestamp: '2024-02-29T19:09:28+00:00'
 requested_by: invalid-email-address
 provider: github
 branch: main
@@ -42,7 +42,7 @@ tools:
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-04-07 16:05:35.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.0.7
   open_source: true
